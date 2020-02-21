@@ -1,4 +1,4 @@
-ruby '2.2.3'
+ruby '2.5.5'
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.6'
@@ -6,12 +6,12 @@ gem 'pg', '~> 0.15'
 
 gem 'dotenv'
 
-gem 'puma'
+gem 'puma', '~> 3.12.2'
 
-gem 'devise'
+gem 'devise', '~> 4.7.1'
 
 # Asset-related Gems
-gem 'bootstrap-sass', '~> 3.3.6'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'sass-rails', '~> 5.0'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.1.0'
