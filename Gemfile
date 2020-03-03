@@ -6,7 +6,7 @@ gem 'pg', '~> 0.15'
 
 gem 'dotenv'
 
-gem 'puma', '~> 3.12.2'
+gem 'puma', '~> 3.12.3'
 
 gem 'devise', '~> 4.7.1'
 
